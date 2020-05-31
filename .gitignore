@@ -5,7 +5,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
-*.json
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -115,3 +114,30 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+modulo-02/trabalho-pratico/data/estados/AC.json
+modulo-02/trabalho-pratico/data/estados/AL.json
+modulo-02/trabalho-pratico/data/estados/AM.json
+modulo-02/trabalho-pratico/data/estados/AP.json
+modulo-02/trabalho-pratico/data/estados/BA.json
+modulo-02/trabalho-pratico/data/estados/CE.json
+modulo-02/trabalho-pratico/data/estados/DF.json
+modulo-02/trabalho-pratico/data/estados/ES.json
+modulo-02/trabalho-pratico/data/estados/GO.json
+modulo-02/trabalho-pratico/data/estados/MA.json
+modulo-02/trabalho-pratico/data/estados/MG.json
+modulo-02/trabalho-pratico/data/estados/MS.json
+modulo-02/trabalho-pratico/data/estados/MT.json
+modulo-02/trabalho-pratico/data/estados/PA.json
+modulo-02/trabalho-pratico/data/estados/PB.json
+modulo-02/trabalho-pratico/data/estados/PE.json
+modulo-02/trabalho-pratico/data/estados/PI.json
+modulo-02/trabalho-pratico/data/estados/PR.json
+modulo-02/trabalho-pratico/data/estados/RJ.json
+modulo-02/trabalho-pratico/data/estados/RN.json
+modulo-02/trabalho-pratico/data/estados/RO.json
+modulo-02/trabalho-pratico/data/estados/RR.json
+modulo-02/trabalho-pratico/data/estados/RS.json
+modulo-02/trabalho-pratico/data/estados/SC.json
+modulo-02/trabalho-pratico/data/estados/SE.json
+modulo-02/trabalho-pratico/data/estados/SP.json
+modulo-02/trabalho-pratico/data/estados/TO.json
