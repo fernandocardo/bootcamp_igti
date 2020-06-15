@@ -1,0 +1,41 @@
+.flexRow{
+    display:flex;
+    flex-direction: row;
+    background-color: yellow;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+/* Flex */
+.flex {
+	display: flex;
+}
+
+.flexWrap {
+	flex-wrap: wrap;
+}
+
+.flexItem1 {
+	flex: 1;
+}
+
+/* Flex Item */
+.item {
+	margin: 5px;
+	background: tomato;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.container {
+	max-width: 400px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+}
+
+.itemDesconto {
+    font-weight: bold;
+    margin-left: 1000px;
+    margin-right: 1000px;
+    background-color: turquoise;
+}
